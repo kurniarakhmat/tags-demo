@@ -75,3 +75,5 @@ To help you get your feet wet and get you familiar with our contribution process
 React is [MIT licensed](./LICENSE).
 
 Try to make v18.2.1 version
+
+Make another new version : v18.2.2
